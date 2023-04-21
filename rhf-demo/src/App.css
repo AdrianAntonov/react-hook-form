@@ -24,7 +24,6 @@ input[type='data'] {
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;
-  margin-bottom: 20px;
 }
 
 .errors {
@@ -33,6 +32,9 @@ input[type='data'] {
   text-align: left;
 }
 
+.form-control {
+  margin-bottom: 20px;
+}
 /* .logo {
   height: 6em;
   padding: 1.5em;
